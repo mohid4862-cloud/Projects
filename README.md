@@ -1,5 +1,6 @@
 # Projects
 Mohid Khan 
+
 Data Analyst
 
 Business Analytics B.Sc. | FAST-NU 
